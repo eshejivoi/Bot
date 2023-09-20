@@ -43,4 +43,4 @@ async def kawaii(ctx):
 async def helps(ctx):
     await ctx.send(commands_list)
 
-bot.run("MTE0OTAwODMwMjM4MzA1OTExNg.G3PZuR.eBL82JYmVqMov4ECJKSILTKYIjYCVbl7T9m56o")
+bot.run("TOKEN")
